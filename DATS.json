@@ -29,12 +29,14 @@
   "types": [
     {
       "information": {
-        "value": "ILX:0779125"
+        "value": "NII file format",
+		"valueIRI": "http://uri.interlex.org/ilx_0779125"
       }
     },
     {
       "information": {
-        "value": "ILX:0778718"
+        "value": "CSV file format",
+		"valueIRI": "http://uri.interlex.org/ilx_0778718"
       }
     }
   ],
